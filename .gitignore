@@ -1,2 +1,5 @@
 *.fcstd1
 *~
+*.FCBak
+config.bat
+node_modules
